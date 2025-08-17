@@ -15,7 +15,7 @@ int main() {
 
     printf("Coloque os dados da primeira carta: \n");
     
-    printf("Estado(ex: SP): \n");
+    printf("Estado(ex: BH): \n");
     scanf("%2s", estado);
     
     printf("Digite o codigo da carta (ex:P03): \n");
