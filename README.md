@@ -22,19 +22,32 @@ PIB: O Produto Interno Bruto da cidade. Tipo: float
  Após o usuário inserir os dados de cada carta, seu programa deve exibir na tela as informações cadastradas, de forma organizada e legível. Para cada carta, imprima cada informação em uma linha separada, com uma descrição clara. Por exemplo:
 
 Carta 1:
+
 Estado: A
+
 Código: A01
+
 Nome da Cidade: São Paulo
+
 População: 12325000
+
 Área: 1521.11 km²
+
 PIB: 699.28 bilhões de reais
+
 Número de Pontos Turísticos: 50
 
 Carta 2:
 Estado: B
+
 Código: B02
+
 Nome da Cidade: Rio de Janeiro
+
 População: 6748000
+
 Área: 1200.25 km²
+
 PIB: 300.50 bilhões de reais
+
 Número de Pontos Turísticos: 30    
