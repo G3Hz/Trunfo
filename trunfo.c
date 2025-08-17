@@ -28,10 +28,10 @@ int main() {
     scanf("%d", &habitantes);
 
     printf("Área(em km²): \n");
-    scanf("%3f", &area);
+    scanf("%5f", &area);
 
     printf("PIB: \n");
-    scanf("%3f", &pib);
+    scanf("%5f", &pib);
 
     printf("Número de pontos turísticos: \n");
     scanf("%d", &pontoturisticos);
@@ -54,10 +54,10 @@ int main() {
     scanf("%d", &habitantes2);
 
     printf("Área (em km²): \n");
-    scanf("%3f", &area2);
+    scanf("%5f", &area2);
 
     printf("PIB: \n");
-    scanf("%3f", &pib2);
+    scanf("%5f", &pib2);
 
     printf("Número de pontos turísticos: \n");
     scanf("%d", &pontoturisticos2);
@@ -71,8 +71,8 @@ int main() {
     printf("Código: %s\n", codigo);
     printf("Nome da cidade: %s\n", cidade);
     printf("O número de habitantes: %d\n", habitantes);
-    printf("Área (em km²): %3f\n", area);
-    printf("PIB: %3f\n", pib);
+    printf("Área (em km²): %5f\n", area);
+    printf("PIB: %5f\n", pib);
     printf("Número de pontos turísticos: %d\n", pontoturisticos);
 
     printf("\n");
@@ -84,8 +84,8 @@ int main() {
     printf("Código: %s\n", codigo2);
     printf("Nome da cidade: %s\n", cidade2);
     printf("O número de habitantes: %d\n", habitantes2);
-    printf("Área (em km²): %3f\n", area2);
-    printf("PIB: %3f\n", pib2);
+    printf("Área (em km²): %5f\n", area2);
+    printf("PIB: %5f\n", pib2);
     printf("Número de pontos turísticos: %d\n", pontoturisticos2);
     return 0;
 
